@@ -1,6 +1,6 @@
 # algorithm-java-study
 - 개인 스터디
-- 참고 도서 : Do it! 알고리즘 코딩 테스트 - 자바 편 / 김종관 / 이즈스퍼블리싱(주)<br/><br/>
+- 참고 도서 : Do it! 알고리즘 코딩 테스트 - 자바 편 / 김종관 / 이지스퍼블리싱(주)<br/><br/>
 - 기술 스택 : `Java`
 - 사용 툴 : `IntelliJ`, `Mac Terminal`
 
