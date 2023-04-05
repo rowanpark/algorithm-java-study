@@ -1,15 +1,15 @@
 # algorithm-java-study
 - 개인 스터디
 - 참고 도서 : Do it! 알고리즘 코딩 테스트 - 자바 편 / 김종관 / 이즈스퍼블리싱(주)<br/><br/>
-
 - 기술 스택 : `Java`
 - 사용 툴 : `IntelliJ`, `Mac Terminal`
 
 <br/>
 
 ## 목표
-1. 자바 알고리즘 코딩 능력 향상
-2. `git commit convention`을 지켜서 `commit message`를 작성해보자.
+- 자바 알고리즘 코딩 능력 향상
+- `git commit convention`을 지켜서 `commit message`를 작성해보자.
+
     > **Feat** : 새로운 기능 추가<br/>
 **Fix** : 버그 수정<br/>
 **Docs** : 문서 작성<br/>
