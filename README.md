@@ -7,8 +7,8 @@
 <br/>
 
 ## 목표
-- 자바 알고리즘 코딩 능력 향상
-- `git commit convention`을 지켜서 `commit message`를 작성해보자.
+1. 자바 알고리즘 코딩 능력 향상하기
+2. `깃 커밋 컨벤션(git commit convention)`을 지켜서 `커밋 메세지(commit message)`를 작성해보기
 
     > **Feat** : 새로운 기능 추가<br/>
 **Fix** : 버그 수정<br/>
