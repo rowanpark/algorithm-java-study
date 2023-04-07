@@ -84,6 +84,7 @@ public class P000OrderNumber {
 
     }
 
+    //중복 체크
     public static boolean hasDuplicate(int[] arr, int len, int num) {
 
         for (int i = 0; i < len; i++) {
