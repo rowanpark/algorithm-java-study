@@ -17,14 +17,14 @@ public class P001SumNumber {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
+        
         //문자열 입력받기
         int n = sc.nextInt();
         String sNum = sc.next();
-
+        
         //문자열을 문자 배열로 변환
         char[] cNum = sNum.toCharArray();
-
+        
         //각 문자를 하나씩 더하기
         int sum = 0;
         for (int i = 0; i < n; i++) {
@@ -33,10 +33,10 @@ public class P001SumNumber {
 //            sum += Character.getNumericValue(cNum[i]);
 //            sum += Character.getNumericValue(sNum.charAt(i));
         }
-
+        
         //결과 출력
         System.out.println(sum);
-
+        
         sc.close();
         
     }
