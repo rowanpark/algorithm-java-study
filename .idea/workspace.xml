@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="272a6b16-8027-4ef1-b41e-34045b0da625" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch01/P000OrderNumberComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/P001SumNumberComment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch01/P000OrderNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch01/P000OrderNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch03/P001SumNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch03/P001SumNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ch01/P000OrderNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/P000OrderNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch03/P001SumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/P001SumNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +44,13 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P000OrderNumber">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch01" />
+      <recent name="ch03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.P000OrderNumberComment">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="AlgorithmJavaStudy" />
@@ -61,9 +71,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P000OrderNumberComment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01.P000OrderNumberComment" />
+      <module name="AlgorithmJavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P001SumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.P001SumNumber" />
+      <module name="AlgorithmJavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P000OrderNumberComment" />
         <item itemvalue="Application.P000OrderNumber" />
+        <item itemvalue="Application.P001SumNumber" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

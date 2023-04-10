@@ -13,7 +13,7 @@ package ch03;
 
 import java.util.Scanner;
 
-public class P001SumNumber {
+public class P001SumNumberComment {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -38,6 +38,6 @@ public class P001SumNumber {
         System.out.println(sum);
 
         sc.close();
-        
+
     }
 }
