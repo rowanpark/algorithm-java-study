@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="272a6b16-8027-4ef1-b41e-34045b0da625" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch03/P002AverageNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch01/P000OrderNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch01/P000OrderNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch01/P000OrderNumberComment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch01/P000OrderNumberComment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch03/P001SumNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch03/P001SumNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch03/P001SumNumberComment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmJavaStudy/ch03/P001SumNumberComment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/P001SumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/P001SumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/P001SumNumberComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/P001SumNumberComment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,5 +125,16 @@
       <updated>1680623985564</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
